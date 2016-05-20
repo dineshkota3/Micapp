@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MicApp</string>
+    <string name="title_activity_selection">SelectionActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="student">Student</string>
+    <string name="professer">Professor</string>
+    <string name="ProfIP">Connect</string>
+    <string name="title_activity_student_send">StudentSendActivity</string>
+    <string name="title_activity_prof_receive">ProfReceiveActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_send_voice">SendVoiceActivity</string>
+</resources>
